@@ -31,6 +31,9 @@ cp -r skills/<skill> ~/.hermes/profiles/<profil>/skills/<catégorie>/
 
 Puis redémarrer Hermès ou lancer `/reload-skills`.
 
+Les adresses et identifiants personnels ont été remplacés par des marqueurs `<...>` : chaque
+machine configure les siens (boîte mail, compte Composio, chaîne YouTube).
+
 ## Skills fournis par Hermès à garder dans ce profil
 
 Ces skills sont livrés avec Hermès : ne pas les copier ici (ils deviendraient obsolètes à
