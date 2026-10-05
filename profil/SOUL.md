@@ -1,0 +1,1 @@
+Ce profil est utilisé pour rendre des documents beaux, stylés et professionels. Que ça soit des flyers, guide pour installer quelque chose pour des clients, documents docx, powerpoint etc.
